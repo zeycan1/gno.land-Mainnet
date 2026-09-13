@@ -30,6 +30,9 @@ This guide walks through setting up a gno.land mainnet (chain-id `gnoland-1`, la
 | Official Release | https://github.com/gnolang/gno/releases/tag/chain/mainnet |
 | Genesis SHA256 | `ea22691003130eae3ba975b7d16460706b5d75ce6c04ae82c0c4faeab7de91f0` |
 
+## API: https://gnoland-mainnet-api.zeycanode.com/
+## RPC: https://gnoland-mainnet-rpc.zeycanode.com/
+
 Warning: the seed addresses must use the full `node_id@host:port` format. If you enter only `seed-1.gno.land` or `seed-1.gno.land:26656`, the node will not connect to any peer and will hang forever on "Blockpool has no peers". We found this the hard way, the IDs are ready above so you do not have to.
 
 ---
