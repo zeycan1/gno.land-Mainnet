@@ -30,6 +30,9 @@ Bu rehber, gno.land mainnet'ini (chain-id `gnoland-1`, launch: 2026-09-12) sıf�
 | Resmi Release | https://github.com/gnolang/gno/releases/tag/chain/mainnet |
 | Genesis SHA256 | `ea22691003130eae3ba975b7d16460706b5d75ce6c04ae82c0c4faeab7de91f0` |
 
+## API: https://gnoland-mainnet-api.zeycanode.com/
+## RPC: https://gnoland-mainnet-rpc.zeycanode.com/
+
 ⚠️ **Seed adresleri için `node_id@host:port` formatı zorunludur.** Sadece `seed-1.gno.land` ya da `seed-1.gno.land:26656` yazarsanız node hiçbir peer'a bağlanamaz ve "Blockpool has no peers" hatasıyla sonsuza kadar bekler. Bunu deneme yanılmayla bulduk, ID'ler yukarıda hazır.
 
 ---
